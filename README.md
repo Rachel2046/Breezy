@@ -11,7 +11,7 @@ In Windows, simply:
 ![Window example of Breezy](doc/Breezy_window.png)
 
 ## Check the source code
-The Python code is also included. As `Breezy` is calling a public API from https://api.openweathermap.org/data/2.5/weather, you will need to apply for your own API key at `https://openweathermap.org/api` for free. Once you add your API key to the following section of the code in Breezy.py, you can query the server 60 times per minute or 1,000,000 times per month!
+The Python code is also included. Feel free to modify the code and make your own version of `Breezy`... As `Breezy` is calling a public API from https://api.openweathermap.org/data/2.5/weather, you will need to apply for your own API key at `https://openweathermap.org/api` for free. Once you add your API key to the following section of the code in Breezy.py, you can query the server 60 times per minute or 1,000,000 times per month!
 
 ```python
 params = {
