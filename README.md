@@ -4,7 +4,7 @@
 
 ## How to run it
 In Windows, simply:
-1) Double click the orange icon with the letter B, ![Icon of Breezy](doc/Breezy_icon.png) this runs `Breezy.exe`.
+1) Double click the orange icon with the letter B, ![Icon of Breezy](doc/Breezy_icon.png) this runs `Breezy.exe`. Make sure you have `Breezy.ico` (the icon image) in the same folder, or you'll get the `"Breezy.ico" not defined` error... 
 2) In the main window, type the name of the city you are interested in... Voila!
 3) You will get the location (longitude and latitude), current time, weather and temperature instantaneously!
    
